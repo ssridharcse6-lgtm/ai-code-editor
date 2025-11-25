@@ -29,7 +29,7 @@ A modern web-based code editor that enables users to collaboratively edit code i
 - Angular CLI 17+
 - Google Gemini API Key
 
-### 1. Clone the Repository###
+### 1. Clone the Repository
 
 ```bash
 git clone <repository-url>
